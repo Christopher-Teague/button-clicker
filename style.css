@@ -24,6 +24,10 @@
     flex-direction: column;
 }
 
+.text-center {
+    text-align: center;
+}
+
 .centered-vert {
     align-items: center;
 }
@@ -112,4 +116,3 @@
     font-size: medium;
     border: solid 1px black;
 }
-
