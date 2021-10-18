@@ -31,6 +31,7 @@
 .centered-hor {
     justify-content: center;
 }
+
 .space-between {
     justify-content: space-between;
 }
@@ -89,4 +90,13 @@
 }
 * {
     margin: 10px;
+}
+
+.btn-2 {
+    color: black;
+    background-color: gold;
+    width: 60px;
+    height: 20px;
+    font-size: small;
+    border: solid 2px black;
 }
