@@ -1,0 +1,92 @@
+  /*CSS Reset*/
+* {     
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+}
+
+.display-flex { 
+    display: flex;
+}
+
+.flex-grow {
+    flex-grow: 1;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.centered-vert {
+    align-items: center;
+}
+
+.centered-hor {
+    justify-content: center;
+}
+.space-between {
+    justify-content: space-between;
+}
+
+.space-evenly {
+    justify-content: space-evenly;
+}
+
+.rounded {
+    border-radius: 8px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.shadow {
+    box-shadow: 5px 5px 5px black;
+}
+
+.btn {
+    color: azure;
+    background-color: dodgerblue;
+    width: 100px;
+    height: 30px;
+    font-size: medium;
+    border-style: none;
+}
+
+.display-inline {
+    display: inline;
+}
+
+.border {
+    border: 2px solid black;
+}
+    /* Master */
+
+.nav-bar {
+    background-color: grey;
+    width: auto;
+    height: 50px;
+}
+
+.left-column {
+    flex: 3;
+    width: 50%;
+}
+
+.right-column {
+    flex: 2;
+    width: 50%;
+}
+.box {
+    width: auto;
+}
+* {
+    margin: 10px;
+}
