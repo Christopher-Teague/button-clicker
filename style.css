@@ -100,3 +100,12 @@
     font-size: small;
     border: solid 2px black;
 }
+
+.btn-3 {
+    color: black;
+    background-color: olivedrab;
+    width: 90%;
+    height: 30px;
+    font-size: medium;
+    border: solid 2px black;
+}
